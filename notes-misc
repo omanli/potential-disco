@@ -1,12 +1,113 @@
-### ubuntu
-atom text editor on ubuntu:
-https://atom.io/themes
-https://atom.io/themes/atom-material-ui
-http://tipsonubuntu.com/2016/08/05/install-atom-text-editor-ubuntu-16-04/
-gog: atom text editor user defined syntax highlighting
-https://discuss.atom.io/t/documentation-for-custom-language-grammar-syntax-highlighting/29387
-https://discuss.atom.io/t/creating-a-custom-grammar-or-language-package/16711
-https://discuss.atom.io/t/changing-syntax-highlighting-colours/12534
+### ubuntu desktop environments
+Cinnamon
+ https://cinnamon-spices.linuxmint.com/
+ https://cinnamon-spices.linuxmint.com/themes
+ https://cinnamon-spices.linuxmint.com/applets
+ https://cinnamon-spices.linuxmint.com/desklets
+ https://cinnamon-spices.linuxmint.com/extensions
+KDE Plasma
+ default in Kubuntu
+ *Dolphin file manager https://kde.org/applications/system/org.kde.dolphin
+ https://kde.org/plasma-desktop
+ https://www.ubuntupit.com/12-best-kde-plasma-themes-kde-desktop/
+ Plasma Themes https://store.kde.org/browse/cat/104/
+ gog: kde plasma customization
+Budgie 
+?MATE
+ https://mate-desktop.org/
+Gnome
+ https://www.gnome.org/
+ https://www.gnome.org/technologies/
+ Applications
+
+
+Pantheon
+ https://elementary.io/
+Xfce
+ https://www.xfce.org/
+
+
+Desktop Environment
+Window Manager
+File Manager
+Graphical Shell
+
+
+gog: compare linux desktop environments
+**https://itsfoss.com/best-linux-desktop-environments/
+ pros cons
+https://www.ubuntupit.com/best-linux-desktop-environment-reviewed-and-compared/
+ cli install
+**https://www.lifewire.com/best-linux-desktop-environments-4120912
+ pros cons
+[]https://fossbytes.com/best-linux-desktop-environments/
+ ..
+x https://www.makeuseof.com/tag/best-linux-desktop-environments/
+ ..
+() https://www.ubuntupit.com/best-linux-desktop-environment-reviewed-and-compared/
+() https://wiki.archlinux.org/index.php/Comparison_of_desktop_environments
+() https://itsfoss.com/best-linux-desktop-environments/
+() https://www.slant.co/topics/4345/~linux-desktop-environments-for-developers
+
+
+ https://www.makeuseof.com/tag/mate-explained-look-one-linuxs-enduring-desktops/
+ https://www.makeuseof.com/tag/best-linux-software/
+*https://www.makeuseof.com/tag/why-kde-better-gnome/
+*https://www.makeuseof.com/tag/kde-explained-look-linuxs-configurable-desktop-interface/
+
+*https://www.makeuseof.com/tag/ubuntu-flavors-comparison-guide/
+ https://www.makeuseof.com/tag/desktop-wallpapers-inspire-work-every-day/
+ https://www.makeuseof.com/tag/fedora-vs-ubuntu/
+ https://www.makeuseof.com/tag/windows-linux-kernel/
+
+
+**https://www.lifewire.com/linux-desktop-environment-explained-4121640
+ Window manager:  Managing themes and how windows behave.
+ Panels:          Contain the system tray, menu, and quick launch icons.
+ Menus:           Easily access apps and controls.
+ Widgets:         Used to display information like weather, news snippets or system information
+ File Manager:    Manage and organize files.
+ Browser:         Browse the internet.
+ Office Suite:    Create documents, spreadsheets, and presentations.
+ Text Editor:     Create simple text files and edit configuration files.
+ Terminal:        Provides access to the command line tools
+ Display Manager: Adjust your screen and graphics.
+
+
+**https://www.howtogeek.com/193129/how-to-install-and-use-another-desktop-environment-on-linux/
+
+
+https://linuxconfig.org/command-line-programs-for-everyday-use-in-linux
+
+
+
+
+
+### tranquil wallpapers
+gim: tranquil wallpapers
+gim: tranquil wallpapers boat
+gim: soothing wallpapers
+gim: soothing wallpapers boat
+https://drscdn.500px.org/photo/158768465/m%3D2048/c9d934e0e4275236bd1675e6ee3a4eaa
+NatGeo
+https://www.nationalgeographic.com/photography/photo-of-the-day/2019/07/norway-skiing-snow-sunset/
+https://www.nationalgeographic.com/photography/photo-of-the-day/archive/
+
+
+
+
+### keyboard friendly desktop environment
+gog: keyboard friendly desktop environment
+https://www.quora.com/Which-Linux-Desktop-Environment-can-be-used-exclusively-using-keyboard-without-using-mouse
+https://www.reddit.com/r/linux/comments/695ugp/which_linux_desktop_environment_is_the_most/
+https://askubuntu.com/questions/1844/is-there-a-keyboard-centric-desktop-wm-available
+https://unix.stackexchange.com/questions/36445/keyboard-only-desktop-environment
+https://hardware.slashdot.org/story/11/06/27/2223207/one-week-no-mouse-just-keyboard
+https://opensource.com/article/18/8/gnome-keyboard
+https://www.forbes.com/sites/jasonevangelho/2018/12/10/meet-the-linux-desktop-that-blows-away-windows-10-and-macos/
+https://www.slant.co/topics/4345/~linux-desktop-environments-for-developers
+
+
 
 
 ### ubuntu key mappings Alt+Ctrl > AltGr
@@ -17,6 +118,17 @@ https://askubuntu.com/questions/919257/ctrl-alt-not-working-on-ubuntu-but-does-o
 https://www.wikizero.com/en/AltGr_key
 https://help.ubuntu.com/community/ComposeKey
 https://askubuntu.com/questions/5095/typing-using-key-combinations
+
+
+### ubuntu
+atom text editor on ubuntu:
+https://atom.io/themes
+https://atom.io/themes/atom-material-ui
+http://tipsonubuntu.com/2016/08/05/install-atom-text-editor-ubuntu-16-04/
+gog: atom text editor user defined syntax highlighting
+https://discuss.atom.io/t/documentation-for-custom-language-grammar-syntax-highlighting/29387
+https://discuss.atom.io/t/creating-a-custom-grammar-or-language-package/16711
+https://discuss.atom.io/t/changing-syntax-highlighting-colours/12534
 
 
 ### cooking
