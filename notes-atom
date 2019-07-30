@@ -1,0 +1,180 @@
+
+
+===--===--===--===--===--===--===--===--===--===--===--==
+||     https://atom.io/packages/language-todofile      ||
+||   **Creating a Grammar                              ||
+||     https://flight-manual.atom.io/hacking-atom/sections/creating-a-grammar/
+||       package structure + file list                 ||
+===--===--===--===--===--===--===--===--===--===--===--==
+
+
+https://atom.io/users/atom
+  Themes
+  Packages
+  ..
+
+
+
+
+
+
+gog: how-to-write-a-syntax-highlighting-package-for-atom
+..
+gog: syntax highlighting
+gog: atom custom syntax highlighting
+gog: atom text editor sample syntax highlighting
+gog: atom text editor sample grammar highlighting
+https://www.sitepoint.com/how-to-write-a-syntax-highlighting-package-for-atom/
+https://discuss.atom.io/t/solved-creating-a-new-package-for-a-custom-language-in-atom/49380
+ https://github.com/atom/atom/blob/master/docs/build-instructions/build-status.md#languages
+ language-coffee-script, language-java, language-javascript, language-html, language-php.
+ pattern > scope > cssclasses > syntaxtheme
+
+? DevTools
+
+C:\Users\oma\.atom\
+? style.less
+http://lesscss.org
+   https://atom.io/packages/css-color-name
+   https://atom.io/packages/atom-name-that-color
+#e https://atom.io/packages/colorguide
+[] https://atom.io/packages/color-picker
+
+http://hslpicker.com/#808080
+http://hslpicker.com/#171c26
+
+install packages:
+search: color
+search: colorguide
+
+Guide to writing an Atom language grammar
+https://gist.github.com/Aerijo/b8c82d647db783187804e86fa0a604a1
+
+https://discuss.atom.io/t/documentation-for-custom-language-grammar-syntax-highlighting/29387
+https://gist.github.com/DamnedScholar/622926bcd222eb1ddc483d12103fd315
+https://github.com/atom/flight-manual.atom.io/blob/7f11d44a3a618db2b0d79f2d5dc63d32ad85bb82/content/hacking-atom/sections/creating-a-grammar.md
+https://atom.io/users/atom
+
+atom custom syntax highlighting - Google Search
+ https://www.google.com/search?q=atom+custom+syntax+highlighting&oq=atom+custom+&aqs=chrome.1.69i57j0l5.5016j1j7&sourceid=chrome&ie=UTF-8
+Documentation for Custom Language/Grammar/Syntax Highlighting - packages - Atom Discussion
+ https://discuss.atom.io/t/documentation-for-custom-language-grammar-syntax-highlighting/29387
+Grammar boilerplate with annotations.
+ https://gist.github.com/DamnedScholar/622926bcd222eb1ddc483d12103fd315
+language-markdown
+ https://atom.io/packages/language-markdown
+how-to-write-a-syntax-highlighting-package-for-atom - Google Search
+ https://www.google.com/search?q=how-to-write-a-syntax-highlighting-package-for-atom&oq=how-to-write-a-syntax-highlighting-package-for-atom&aqs=chrome..69i57.642j0j7&sourceid=chrome&ie=UTF-8
+How To Develop a Package for GitHub's Atom Code Editor — SitePoint
+ https://www.sitepoint.com/how-to-write-a-syntax-highlighting-package-for-atom/
+[Solved] Creating a new package for a custom language in Atom - support - Atom Discussion
+ https://discuss.atom.io/t/solved-creating-a-new-package-for-a-custom-language-in-atom/49380
+flight-manual.atom.io/creating-a-grammar.md at 7f11d44a3a618db2b0d79f2d5dc63d32ad85bb82 · atom/flight-manual.atom.io
+ https://github.com/atom/flight-manual.atom.io/blob/7f11d44a3a618db2b0d79f2d5dc63d32ad85bb82/content/hacking-atom/sections/creating-a-grammar.md
+
+
+
+Atom
+ https://atom.io/users/atom
+gog: atom color names
+ https://www.google.com/search?q=atom+color+names&oq=atom+color+names&aqs=chrome..69i57j0l5.1943j0j7&sourceid=chrome&ie=UTF-8
+colorguide
+ https://atom.io/packages/colorguide
+
+
+search packages:
+https://atom.io/packages/search?utf8=%E2%9C%93&q=keyword:tasks
+https://atom.io/packages/search?utf8=%E2%9C%93&q=keyword%3Atodo&commit=Search
+
+
+https://atom.io/packages/todo-show
+ downloads: 480k
+ prepares an overview of TODO, FIXME, CHANGED, REVIEW, ... tags
+ in code in a separate window
+https://atom.io/packages/language-checklist
+ https://github.com/m104/atom-language-checklist
+ ..
+https://atom.io/packages/tasks
+ ..
+https://atom.io/packages/imdone-atom
+ Kanban cards from TODO tags in source code files
+https://atom.io/packages/organized
+ Outlining and todo lists in Atom (similar to org-mode)
+https://atom.io/packages/org-mode
+ https://orgmode.org/worg/dev/org-syntax.html
+https://atom.io/packages/todo-list
+ ..
+https://github.com/atom/language-todo
+ https://david-dm.org/atom/language-todo
+ https://atom.io/packages/language-todo-more-words
+ https://atom.io/packages/language-todo-extra-words
+ ..
+***************
+** https://atom.io/packages/language-todofile
+**  ..
+***************
+TextMate Notes:
+ https://gist.github.com/DamnedScholar/622926bcd222eb1ddc483d12103fd315
+ https://www.sitepoint.com/how-to-write-a-syntax-highlighting-package-for-atom/
+ ..
+https://atom.io/packages/atom-todoist
+ ..
+https://atom.io/packages/beaver
+ ..
+https://atom.io/packages/todo-manager
+ ..
+https://atom.io/packages/todo
+ ..
+
+
+? TODO.org
+
+?? https://atom.io/packages/foldingtext-for-atom
+
+
+clone & rename:
+https://help.github.com/en/articles/renaming-a-repository
+
+creating a grammar:
+Tree-Sitter : new grammar definition / parser generator
+   TextMate : legacy syntax definition
+gog: atom text editor sample syntax highlighting
+ ..
+gog: atom text editor sample grammar highlighting
+ ..
+Creating a Legacy TextMate Grammar + Creating an Atom Package
+ https://flight-manual.atom.io/hacking-atom/sections/creating-a-legacy-textmate-grammar/
+ https://flight-manual.atom.io/hacking-atom/sections/creating-a-legacy-textmate-grammar/#create-the-package
+ TextMate - Guide to writing an Atom language grammar
+  https://gist.github.com/Aerijo/b8c82d647db783187804e86fa0a604a1
+**Creating a Grammar
+ https://flight-manual.atom.io/hacking-atom/sections/creating-a-grammar/
+   package structure + file list
+tree-sitter/tree-sitter: An incremental parsing system for programming tools
+ https://github.com/tree-sitter
+ https://github.com/tree-sitter/tree-sitter
+ https://tree-sitter.github.io/tree-sitter/
+ https://tree-sitter.github.io/tree-sitter/using-parsers
+ https://tree-sitter.github.io/tree-sitter/creating-parsers
+ https://tree-sitter.github.io/tree-sitter/playground
+ https://github.com/atom/language-python
+ https://github.com/atom/language-python/blob/master/grammars/tree-sitter-python.cson
+
+
+
+newpackage candidates:
+site:atom.io workspace
+site:atom.io all tabs
+C:\Users\oma\.atom\packages\save-workspace
+C:\Users\oma\.atom\packages\save-workspace\spec
+https://atom.io/packages/open-file-under-cursor
+https://atom.io/packages/open-files
+https://atom.io/packages/save-workspace
+
+
+
+
+code folding:
+collapse:
+https://flight-manual.atom.io/using-atom/sections/folding/
+https://flight-manual.atom.io/using-atom/sections/folding/
