@@ -1,0 +1,7 @@
+'atom-workspace atom-text-editor:not(.mini)':
+  #provided by: https://github.com/garaemon/atom-scroll-with-keeping-cursor-pos/
+  'ctrl-up': 'scroll-with-keeping-cursor-pos:scroll-up'
+  'ctrl-down': 'scroll-with-keeping-cursor-pos:scroll-down'
+  'ctrl-shift-up': 'editor:move-line-up'
+  'ctrl-shift-down': 'editor:move-line-down'
+  #swap Ctrl-D & Ctrl-Shift-D
