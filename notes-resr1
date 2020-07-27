@@ -1,5 +1,10 @@
 ***Math Made Easy by StudyPug! F3.0.0
  https://www.studypug.com/home-8-2b-maths/
+***Summer Camp - Programming + Lab Skills + Science Communication
+   Rhizome Foundations course brings you the basics of programming, laboratory skills and science communication in an intensive 2-week summer program.
+ https://www.youtube.com/watch?v=Yb8BDJOURLc
+ Medt Inst for Life Sci
+ King Baudouin Found.
 
 
 veritasium - The Bayesian Trap
@@ -10,6 +15,7 @@ veritasium - The Bayesian Trap
  https://www.psychologicalscience.org/observer/bayes-for-beginners-probability-and-likelihood
 Introduction to Bayesian data analysis - part 1: What is Bayes?
  https://www.youtube.com/watch?v=3OJEae7Qb_o
+
 
 []What is the difference between probability and likelihood? - Quora
  https://www.quora.com/What-is-the-difference-between-probability-and-likelihood-1
@@ -114,20 +120,52 @@ Regression: Crash Course Statistics #32
 
 veritasium
 Regression to the Mean
-https://www.youtube.com/watch?v=1tSqSMOyNFE
+ https://www.youtube.com/watch?v=1tSqSMOyNFE
 
 
+EM
+https://www.youtube.com/results?search_query=expectation+maximization&page=&utm_source=opensearch
+Monte Carlo Expectation Maximization - YouTube
+https://www.youtube.com/watch?v=S9J5xC--EVc
+Clustering (4): Gaussian Mixture Models and EM - YouTube
+https://www.youtube.com/watch?v=qMTuMa86NzU
+Probabilistic ML — Lecture 21 — Expectation Maximization (EM) - YouTube
+https://www.youtube.com/watch?v=7bYDM3z5hkA
+EM Algorithm - YouTube
+https://www.youtube.com/watch?v=7e65vXZEv5Q
+021 Summary of Expectation Maximization - YouTube
+https://www.youtube.com/watch?v=HUqY48DOAsA
+Expectation Maximization Algorithm explanation and example - YouTube
+https://www.youtube.com/watch?v=d55QoxjuHQE
+EM and KMeans in Python using Scikit Learn - YouTube
+https://www.youtube.com/watch?v=6O6BWTp10zU
+Robotics - 5.1.4.3 - Gaussian Model Learning - Expectation Maximization EM - YouTube
+https://www.youtube.com/watch?v=P3MuzOgT4L0
+EM.3: Visualizing the EM algorithm - YouTube
+https://www.youtube.com/watch?v=XLKoTqGao7U
+Expectation Maximization Clustering Algorithm - Old Faithful - YouTube
+https://www.youtube.com/watch?v=cGhxnMveD18
+EM Expectation Maximization with Python - YouTube
+https://www.youtube.com/watch?v=2uvayeBHMZs
+52 - What is GMM and how to use it for Image segmentation? - YouTube
+https://www.youtube.com/watch?v=kkAirywakmk
+Foundations 2018: Expectation Maximization - YouTube
+https://www.youtube.com/watch?v=Yb8BDJOURLc
+
+
+What Is Correlation? - YouTube
+ https://www.youtube.com/watch?v=Ypgo4qUBt5o
 
 
 K means clustering using python
-https://www.youtube.com/watch?v=X3Q6JFl8vjA
+ https://www.youtube.com/watch?v=X3Q6JFl8vjA
 
 
 What is Regression? | SSE, SSR, SST | R-squared | Errors (ε vs. e)
  https://www.youtube.com/watch?v=aq8VU5KLmkY
 
 Dr. Todd Grande
-Receiver Operator Characteristic (ROC) Curve in SPSS
+ROC Receiver Operator Characteristic (ROC) Curve in SPSS
  https://www.youtube.com/watch?v=i61ZE1FL2P4
 
 
@@ -170,11 +208,12 @@ The Iterated Prisoner's Dilemma and The Evolution of Cooperation - YouTube
 
 
 OpenAI Plays Hide and Seek…and Breaks The Game! 🤖 - YouTube
-https://www.youtube.com/watch?v=Lu56xVlZ40M
+ https://www.youtube.com/watch?v=Lu56xVlZ40M
 4 Experiments Where the AI Outsmarted Its Creators 🤖 - YouTube
-https://www.youtube.com/watch?v=GdTBqBnqhaQ&t=5s
+ https://www.youtube.com/watch?v=GdTBqBnqhaQ&t=5s
+
 The Martingale Problem - YouTube
-https://www.youtube.com/watch?v=DntEoGG7RyY
+ https://www.youtube.com/watch?v=DntEoGG7RyY
 
 
 
@@ -201,9 +240,9 @@ Ken Jee
  https://www.youtube.com/watch?v=4OZip0cgOho
 
 ROC Curves and Area Under the Curve (AUC) Explained
-https://www.youtube.com/watch?v=OAl6eAyP-yo
-Receiver Operating Characteristic (ROC) Curves with Excel Pivot Table Function
-https://www.youtube.com/watch?v=EQASA00NQgM
+ https://www.youtube.com/watch?v=OAl6eAyP-yo
+ROC Receiver Operating Characteristic (ROC) Curves with Excel Pivot Table Function
+ https://www.youtube.com/watch?v=EQASA00NQgM
 
 
 
@@ -256,6 +295,8 @@ Chi Squared Test
 
 Multiclass Classification  Performance measure on [accuracy, f1 score, precision, recall]
  https://www.youtube.com/watch?v=HBi-P5j0Kec
+
+
 
 datacamp
 ROC CURVE
@@ -461,6 +502,7 @@ edureka!
 Linear Regression Algorithm | Linear Regression in Python | Machine Learning Algorithm | Edureka
  https://www.youtube.com/watch?v=E5RjzSK0fvY
 
+3B1B
 Inverse matrices, column space and null space | Essence of linear algebra, chapter 7
  https://www.youtube.com/watch?v=uQhTuRlWMxw
 
@@ -469,11 +511,11 @@ Exponential & Weibull Distribution: Illustration with practical examples
  https://www.youtube.com/watch?v=8M_VRCc9rMY
 
 The Kernel Trick - THE MATH YOU SHOULD KNOW!
-https://www.youtube.com/watch?v=wBVSbVktLIY
+ https://www.youtube.com/watch?v=wBVSbVktLIY
 
 
 *How Deep Neural Networks Work
-https://www.youtube.com/watch?v=ILsA4nyG7I0
+ https://www.youtube.com/watch?v=ILsA4nyG7I0
 
 
 Google Earth
